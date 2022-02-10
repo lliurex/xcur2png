@@ -1,0 +1,13 @@
+Package: xcur2png-dbgsym
+Package-Type: ddeb
+Source: xcur2png
+Version: 0.7.1-1lliurex1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: tks mashiw <tksmashiw@gmail.com>
+Installed-Size: 18
+Depends: xcur2png (= 0.7.1-1lliurex1)
+Section: debug
+Priority: optional
+Description: debug symbols for xcur2png
+Build-Ids: 5bccb86a1b918cb44cd58456afab06d870f77938
